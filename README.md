@@ -25,6 +25,6 @@ Here is the dataset used - [https://github.com/darshilparmar/uber-etl-pipeline-d
 
 
 
-<img src="architecture.jpg">
+<img src="data_model.jpeg">
 
 
